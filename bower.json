@@ -1,0 +1,29 @@
+{
+  "name": "hyper-sslify",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anilanar/purescript-hyper-sslify.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.0.0",
+    "purescript-hyper": "^0.7.2",
+    "purescript-maps": "^3.0.0",
+    "purescript-indexed-monad": "^0.2.0",
+    "purescript-either": "^3.0.0",
+    "purescript-foldable-traversable": "^3.0.0",
+    "purescript-http-methods": "^3.0.0",
+    "purescript-lists": "^4.0.1",
+    "purescript-maybe": "^3.0.0",
+    "purescript-tuples": "^4.0.0"
+  },
+  "devDependencies": {
+    "purescript-spec-discovery": "^0.5.0"
+  }
+}
